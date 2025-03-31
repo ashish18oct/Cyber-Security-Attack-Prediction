@@ -5,7 +5,6 @@
 A **machine learning-powered** web application for detecting and classifying different types of cyber attacks.  
 Built using **Streamlit, Scikit-Learn, XGBoost, TensorFlow**, and more! 🛡️  
 
-Here is the link to the web application : https://cyber-security-attack-prediction-nk3gtz97kb36k2ry5oumfx.streamlit.app/
 ---
 
 ## ✅ Prerequisites  
