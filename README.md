@@ -38,34 +38,39 @@ Here is the link to the web application - [Cyber Security Attack Prediction](htt
 
 ```bash
 git clone https://github.com/yourusername/Cyber-Security-Attack-Prediction.git
-cd cybersecurity_detection
+cd Cyber-Security-Attack-Prediction
 ```
 
 ### 2️⃣ Set up a virtual environment  
 
 #### For Windows 🏁  
-
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
 #### For macOS/Linux 🐧  
-
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
 ### 3️⃣ Install required dependencies  
-
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
+## 🖥️ How to Use
 
+1. Start the application:
+```bash
+streamlit run App.py
+```
+2. Enter the required network traffic feature values in the sidebar.
+3. Click **Make Prediction**.
+4. View the predicted attack type and model confidence.
 
 🔥 **Stay Secure, Stay Ahead!** 🛡️🚀  
 
