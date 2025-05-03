@@ -18,6 +18,20 @@ Here is the link to the web application - [Cyber Security Attack Prediction](htt
 
 ---
 
+## 📁 Project Structure
+
+```
+├── App.py                              # Streamlit web app
+├── CyberSecurity_Attack_Prediction.ipynb  # Model training & exploration
+├── cybersecurity_attacks.csv          # Dataset used for training
+├── xgboosttrained.pkl                 # Trained XGBoost model
+├── requirements.txt                   # Python dependencies
+├── CyberSecAttacksProjectReport.pdf   # Project documentation/report
+└── README.md                          # You're here!
+```
+
+---
+
 ## ⚙️ Installation Steps 🛠️  
 
 ### 1️⃣ Clone the repository  
