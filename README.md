@@ -72,6 +72,8 @@ streamlit run App.py
 3. Click **Make Prediction**.
 4. View the predicted attack type and model confidence.
 
+---
+
 🔥 **Stay Secure, Stay Ahead!** 🛡️🚀  
 
 ---
